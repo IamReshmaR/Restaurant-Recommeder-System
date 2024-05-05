@@ -1,5 +1,5 @@
 # Projects
-Restaurant Recommender System for Customers
+TAASK 1 - Restaurant Recommender System for Customers
 
 
 Project Overview:
@@ -25,4 +25,27 @@ Ensure you have Python installed on your system, along with the following packag
 Pandas
 NumPy
 Scikit-Learn
+Matplotlib
+
+
+
+TASK 2 -Diving into Restaurant Reviews: What are Users Saying About Restaurants in Ohio
+Project Overview
+This project aims to dive deep into restaurant reviews in Ohio to understand customer preferences and perceptions. By employing Natural Language Processing (NLP) techniques, we analyze textual data to identify trends in customer reviews, providing valuable insights into what diners enjoy or dislike about various restaurants. These insights are crucial for restaurants aiming to improve service quality and develop effective business strategies.
+
+Business Objectives
+Understanding Customer Preferences and Perceptions: Gain insights into customer sentiments and preferences by analyzing the textual content of restaurant reviews.
+Identifying Trends: Analyze trends in 5-star and 1-star reviews to understand the strengths and weaknesses of various restaurants, aiding them in enhancing service quality.
+Technical Objectives
+Data Collection and Management: Efficiently import and manage data from external sources (CSV files) into a structured format suitable for analysis.
+Natural Language Processing (NLP): Apply NLP techniques to analyze textual data from restaurant reviews, including tokenization, stop-word removal, and lemmatization.
+Data Analysis and Visualization: Utilize data analysis techniques to extract meaningful patterns and trends from the reviews. Create visualizations such as word clouds and n-gram analyses to represent these findings visually.
+Review Authentication: Demonstrate methods to compare false reviews by employing stemming and lemmatizing techniques.
+Getting Started
+Prerequisites
+You need to have Python installed on your system, along with these libraries:
+
+Pandas
+NumPy
+NLTK
 Matplotlib
